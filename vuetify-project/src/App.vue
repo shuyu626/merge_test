@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <v-main>
+      <div>test666666</div>
       <div>喵喵喵</div>
       <router-view />
       <h1>我們寶寶超可愛</h1>
